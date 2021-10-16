@@ -1,2 +1,2 @@
 # tutorial-pybr
-Tutorial Python Brasil 2021 LuizaLabs
+Tutorial Python Brasil 2021
